@@ -1,0 +1,36 @@
+{
+  "name": "galactico-theme",
+  "displayName": "Galactico Theme",
+  "description": "An aesthetic VS Code extension",
+  "version": "1.0.0",
+  "author": "Subhraneel Saha",
+  "publisher": "SubhraneelSaha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TerminatorSS24/galactico-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Subhraneel",
+    "galatico"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GALACTICO",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GALACTICO-color-theme.json"
+      }
+    ]
+  }
+}
