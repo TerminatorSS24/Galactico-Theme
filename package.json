@@ -2,9 +2,10 @@
   "name": "galactico-theme",
   "displayName": "Galactico Theme",
   "description": "An aesthetic VS Code extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Subhraneel Saha",
   "publisher": "SubhraneelSaha",
+  "icon": "images/download-2.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/TerminatorSS24/galactico-theme"
